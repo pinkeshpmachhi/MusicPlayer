@@ -1,0 +1,19 @@
+<androidx.cardview.widget.CardView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:sothree="http://schemas.android.com/apk/res-auto"
+    android:layout_alignParentBottom="true"
+    android:id="@+id/cardView"
+    android:foregroundGravity="center_vertical"
+    sothree:cardElevation="20dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<com.google.android.material.bottomnavigation.BottomNavigationView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:background="@color/white"
+    sothree:menu="@menu/bottom_nav_menu"
+    android:layout_gravity="center_vertical"
+    android:id="@+id/bottomNavView"/>
+
+</androidx.cardview.widget.CardView>

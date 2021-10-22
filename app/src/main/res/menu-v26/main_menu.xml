@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+        <item android:id="@+id/serchMenu"
+            android:title="Search"
+            android:icon="@drawable/ic_baseline_search_24"
+            android:iconTint="@color/white"
+            app:showAsAction="collapseActionView|ifRoom"
+            app:actionViewClass="androidx.appcompat.widget.SearchView"/>
+
+
+    <item android:id="@+id/submenu"
+        android:title="Show As">
+
+        <menu>
+
+
+            <item android:id="@+id/dateMenu"
+                android:title="Date"
+                app:showAsAction="never"/>
+
+            <item app:showAsAction="never"
+                android:title="Name"
+                android:id="@+id/nameMenuCHoose"/>
+
+            <item android:id="@+id/sizeMenu"
+                android:title="Size"
+                app:showAsAction="never"/>
+
+            <item android:id="@+id/albumMenu"
+                android:title="Albums"
+                app:showAsAction="never"/>
+
+            <item android:title="Artist"
+                app:showAsAction="never"
+                android:id="@+id/artistMenu"/>
+
+        </menu>
+    </item>
+</menu>

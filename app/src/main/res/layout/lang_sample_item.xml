@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="180dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="2.5dp"
+    android:background="#515FD8"
+    app:cardCornerRadius="20dp"
+    android:layout_marginStart="3dp"
+    android:layout_marginBottom="3dp"
+    android:backgroundTint="#043F7E"
+    android:layout_height="40dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/langauge"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        android:id="@+id/nameTvSingle"/>
+
+
+</androidx.cardview.widget.CardView>

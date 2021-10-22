@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SMusic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_artist">This is artist</string>
+    <string name="this_is_title">This is title</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="this_is_artist_name">This is artist name</string>
+    <string name="this_is_song_name">This is song name</string>
+    <string name="profile">Profile</string>
+    <string name="offline">Offline</string>
+    <string name="music">Music</string>
+    <string name="smusic_podcast">SMusic Podcast</string>
+    <string name="top_albums">Top Albums</string>
+    <string name="recently_played">Recently Played</string>
+    <string name="album1">Album</string>
+    <string name="langauge">Langauge</string>
+    <string name="artistv">Artist</string>
+    <string name="you_may_like_it">You may like it!</string>
+    <string name="your_playlist">Your PlayList</string>
+    <string name="sleep_timer">Sleep Timer</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">save</string>
+    <string name="hours_12"><![CDATA[Hours(<12)]]></string>
+    <string name="minutes">Minutes</string>
+    <string name="fj">:</string>
+    <string name="hours">Hours</string>
+    <string name="enter_your_time">Enter your time :</string>
+    <string name="this_is_titles">This is title</string>
+    <string name="this_is_titless">This is title</string>
+    <string name="search">Search</string>
+    <string name="date">Date</string>
+    <string name="name">Name</string>
+    <string name="size">Size</string>
+    <string name="albumsf">Albums</string>
+    <string name="artist">Artist</string>
+    <string name="show_asmenu">Show as</string>
+    <string name="sort_by">Sort by</string>
+    <string name="album">Album</string>
+    <string name="albumsfff">Albums</string>
+</resources>
